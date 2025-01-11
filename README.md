@@ -1,5 +1,7 @@
 # Generative AI and Its Role in Data Science
 
+# Module 1
+
 ## What is Generative AI?
 Generative AI is a subset of Artificial Intelligence focused on creating new data rather than analyzing existing data. It is capable of generating content such as:
 - Images  
@@ -861,6 +863,7 @@ Generative AI tools simplify the process of visualizing and analyzing data, maki
 
 ---
 
+# Module 2
 ## Generative AI for Drawing Data Insights
 
 The video demonstrates how generative AI can be used to draw insights from data, focusing on creating Python code for statistical analysis using tools like GPT-3.5 and platforms like Hal9. The assumption is that the data is already cleaned and stored in a CSV file.
