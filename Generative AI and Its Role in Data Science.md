@@ -1179,3 +1179,5 @@ Generative AI faces challenges in technical, organizational, and cultural domain
 - Foster secure data-sharing practices.
 - Promote trust and transparency in AI processes.
 - Encourage a mindset of continuous learning and adaptation.
+
+Thank You!
