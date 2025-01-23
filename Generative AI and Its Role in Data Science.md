@@ -1,4 +1,12 @@
-# Generative AI and Its Role in Data Science
+<div align="center">
+
+   # Generative AI and Its Role in Data Science
+
+---
+---
+
+</div>
+
 
 # Module 1
 
@@ -1180,4 +1188,6 @@ Generative AI faces challenges in technical, organizational, and cultural domain
 - Promote trust and transparency in AI processes.
 - Encourage a mindset of continuous learning and adaptation.
 
-Thank You!
+<div align="center">
+Thank You!😊
+</div>
