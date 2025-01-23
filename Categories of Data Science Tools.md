@@ -1,4 +1,9 @@
+<div align="center">
+   
 # Categories of Data Science Tools
+
+---
+</div>
 
 ## Objectives
 After watching this video, you will be able to:
@@ -7,6 +12,7 @@ After watching this video, you will be able to:
 3. Describe how execution and development environments implement a model.
 
 ---
+
 
 ## Data Science Task Categories
 Raw data must pass through various data science task categories to become useful. These categories are:
@@ -2171,5 +2177,8 @@ I'll create detailed markdown notes for each video transcript, organizing the co
    - Personal Access Token
    - Repository URL
   
-
-     Thank YOu!😊
+<div align="center">
+     
+   Thank You!😊
+   
+</div>
